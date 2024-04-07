@@ -27,7 +27,7 @@ table {
 <table border="1" align="center">
 <tr>
 	<td><img src="../imgs/menu01.jpg" width=200 height=200/></td>
-	<td><img src="../imgs/menu02.jpg" width=200 height=200/></td>
+	<td><img src="../imgs/menu01.jpg" width=200 height=200/></td>
 	<td><img src="../imgs/menu03.jpg" width=200 height=200/></td>
 	<td><img src="../imgs/menu04.jpg" width=200 height=200/></td>
 	<td><img src="../imgs/menu13.jpg" width=200 height=200/></td>
