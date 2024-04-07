@@ -5,7 +5,13 @@
 <head>
 <meta charset="UTF-8">
 <title>loginOk</title>
-<style>.center {text-align: center;}</style>
+<style>
+.center {text-align: center;}
+body {
+	background-image: url(../imgs/00.png);
+	background-size: cover;
+	}
+</style>
 </head>
 <body>
 <div class="center">
@@ -35,7 +41,6 @@
   		 }
          
   %>
-  <hr/>     
   <h4>로그인 성공 하셨습니다.<br/>
   메뉴 화면으로 이동 하시겠습니까?</h4>
 <a href="http://localhost:8081/sura/shop/menu.jsp">	

@@ -6,6 +6,9 @@
 <meta charset="UTF-8">
 <title>thanks</title>
 </head>
+<style>
+.center {text-align: center;}
+</style>
 <body>
 <div align="center">
 <img src= "http://localhost:8081/sura/imgs/logo.gif" width="250px"/><br/>

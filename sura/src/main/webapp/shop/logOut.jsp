@@ -5,7 +5,13 @@
 <head>
 <meta charset="UTF-8">
 <title>LogOut</title>
-<style>.center {text-align: center;}</style>
+<style>
+.center {text-align: center;}
+body {
+	background-image: url(../imgs/00.png);
+	background-size: cover;
+	}
+</style>
 </head>
 <body>
 <div class="center">

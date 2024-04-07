@@ -6,6 +6,13 @@
 <meta charset="UTF-8">
 <title>join</title>
 </head>
+<style>
+.center {text-align: center;}
+body {
+	background-image: url(../imgs/00.png);
+	background-size: cover;
+	}
+</style>
 <body>
 <div align="center">
 <a href="http://localhost:8081/sura/shop/main.jsp">	

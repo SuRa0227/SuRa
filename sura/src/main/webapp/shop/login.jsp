@@ -14,6 +14,8 @@
         body{
             font-size: 14px;
             font-family: 'Roboto', sans-serif;
+            background-image: url(../imgs/00.png);
+			background-size: cover;
         }
         .login-wrapper{
             width: 400px;

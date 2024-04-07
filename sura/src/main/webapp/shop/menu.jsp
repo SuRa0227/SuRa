@@ -5,7 +5,18 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<style>.center {text-align: center;}</style>
+<style>
+.center {text-align: center;}
+body {
+	background-image: url(../imgs/00.png);
+	background-size: cover;
+	}
+table {
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255);
+    border-collapse: rgba(255, 255, 255);
+  }
+</style>
 </head>
 <body>
 <div class="center">
